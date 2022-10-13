@@ -24,4 +24,3 @@ printf("%s%s", separator, str);
 printf("\n");
 va_end(list);
 }
-}
